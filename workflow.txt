@@ -1,0 +1,5 @@
+Generate a tool that runs with selenium to allow the IA to access the websites
+
+Need to create google calendar api connecting tool
+
+make a list of spots and tides that are good for that spot
